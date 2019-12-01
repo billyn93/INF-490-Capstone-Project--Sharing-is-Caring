@@ -1,0 +1,11 @@
+table.category-table {
+  width: 100%;
+  margin-bottom: 40px;
+
+}
+
+table.category-table td.main-category {
+	font-size: 20pt;
+	font-weight: bold;
+
+}
